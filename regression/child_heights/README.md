@@ -2,7 +2,7 @@
 
 This dataset contains the heights of parents, gender of child and the height of the child when adult.
 
-Data is synthetically generated from random normal and Bernoulli distributions, using PyTorch, using (this script)[./make_dataset.py].
+Data is synthetically generated from random normal and Bernoulli distributions, using PyTorch, using [this script](./make_dataset.py).
 
 To load the data:
 ```python3
